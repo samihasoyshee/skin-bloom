@@ -1,4 +1,5 @@
 from routines import routines,concern_treatments
+from ingredients import ingredients
 skin_types = {
     "1" : "Oily",
     "2" : "Dry",
@@ -96,6 +97,22 @@ if choice == 1 :
         print("-Choose fregnance-free products.")
         print("-Avoid harsh scrubs.")
         print("-Patch test new products.")
+elif choice == 2:
+    print(""" 
+    ------------------------------
+          INGREDIENT EXPLORER
+    ------------------------------
+""")
+    choice1=input("Enter ingredients: ").lower()
+    info=ingredients[choice1]
+    print(f"\nIngredient:{choice1.title()}")
+    print(f"\nBest for: {info['best_for']}")
+    print(f"Benefits:{info['benefits']}")
+    print(f"Avoid if: {info['avoid']}")
+
+
+
+
 
     
 
