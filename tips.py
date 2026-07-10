@@ -2,7 +2,7 @@ tips = {
     "morning": [
         "Wash your face with a gentle cleanser.",
         "Apply moisturizer.",
-        "Always wear sunscreen (SPF 30+)."
+        "Always wear sunscreen (SPF 50+)."
     ],
 
     "night": [
