@@ -19,4 +19,5 @@ SkinBloom is a Python console application that provides personalized skincare ro
 Python
 <br>
 ## Author
+<br>
 Samiha Salam Oyshee
