@@ -1,7 +1,7 @@
 # SkinBloom
 <br>
 SkinBloom is a Python console application that provides personalized skincare routines.
-<br>
+
 ## Features
 <br>
 -Discover Skincare routine
@@ -13,11 +13,11 @@ SkinBloom is a Python console application that provides personalized skincare ro
 -Basic Skincare guide
 <br>
 -Save your skincare profile
-<br>
+
 ## Built With
 <br>
 Python
-<br>
+
 ## Author
 <br>
 Samiha Salam Oyshee
